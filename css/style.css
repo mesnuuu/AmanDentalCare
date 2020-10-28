@@ -21,3 +21,7 @@ body{
     border-radius: 10rem!important;
     padding: 1.25rem, 2.24rem!important;
 }
+
+.message{
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
